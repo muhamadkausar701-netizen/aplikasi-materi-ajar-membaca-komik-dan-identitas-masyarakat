@@ -1,0 +1,6 @@
+{
+  "name": "Jelajah Budaya Nusantara",
+  "description": "Aplikasi pembelajaran interaktif SD Kelas 3–6 mengenal identitas masyarakat, komik edukasi Kita Indonesia, pakaian adat Nusantara, dan kuis evaluasi Bhinneka Tunggal Ika.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
